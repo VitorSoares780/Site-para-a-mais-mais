@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(195, 11, 195);
+    padding-bottom:65px;
+}#div2{
+    margin-left: 120px;
+    
+}.div{
+    padding-top: 10px;
+float: left;
+}#div1{
+    padding-left: 80px;
+}#div3{
+    margin-left: 120px;
+}#div4{
+    margin-left: 120px;
+}#div5{
+    margin-left: 120px;
+}body{
+    background-color: rgb(252, 196, 232);
+}#h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 10px;
+}ol{
+    font-size: 20px;
+    margin-left: 20px;
+}p{
+    padding-left: 20px;
+    font-size: 20px;
+    margin-left: 15px;
+}
