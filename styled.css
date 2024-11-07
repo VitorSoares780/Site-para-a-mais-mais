@@ -24,4 +24,23 @@ float: left;
     color: blueviolet;
 }main{
     margin-left: 15px;
+}@media screen and (max-width:800px){
+    .col1{width: 10%;}
+.col2{width: 20%;}
+.col3{width: 30%;}
+.col4{width: 40%;}
+.col5{width: 50%;}
+.col6{width: 60%;}
+.col7{width: 70%;}
+.col8{width: 80%;}
+.col9{width: 90%;}
+.col10{width: 100%;}
+header{
+    column-count: 1;
 }
+#div1{
+    margin-left: 40px;
+}
+    }
+    
+
