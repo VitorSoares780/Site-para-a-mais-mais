@@ -30,7 +30,7 @@ float: left;
     font-size: 20px;
 }
 @media screen and (max-width: 1050px){
-    #div1, #div2, #div3, #div4, #div5{
-        <br>
+   #div2, #div3, #div4, #div5{
+        margin-left:1200px;
     }
 }
