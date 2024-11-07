@@ -27,7 +27,7 @@ float: left;
     text-align: center;
 }img {
     width: 100%;
-    border-radius: 10px;
+    border-radius: 15px;
     margin-bottom: 10px;
 
 }section{
@@ -73,6 +73,9 @@ float: left;
     margin-left: 80px;
 }#div5{
     margin-left: 80px;
+    #hb{
+        font-size:20px;
+    text-align: center;
     }
     
 
