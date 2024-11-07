@@ -29,8 +29,5 @@ float: left;
     text-align: center;
     font-size: 20px;
 }
-@media screen and (max-width: 1050px){
-   #div2, #div3, #div4, #div5{
-        margin-left:1200px;
-    }
+
 
