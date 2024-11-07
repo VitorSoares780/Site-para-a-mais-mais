@@ -32,7 +32,7 @@ float: left;
 
 }section{
     column-gap: 10px;
-    column-count: 4;
+    column-count: 2;
     margin-left: 10px;
     margin-right: 10px;
 }p{
