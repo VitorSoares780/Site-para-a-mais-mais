@@ -42,9 +42,21 @@ float: left;
 header{
     column-count: 1;
 }
-#div1{
-    margin-left: 40px;
-}
+#div2{
+    margin-left: 80px;
+    
+}.div{
+    padding-top: 10px;
+float: left;
+}#div1{
+    padding-left: 80px;
+}#div3{
+    margin-left: 80px;
+}#div4{
+    margin-left: 80px;
+}#div5{
+    margin-left: 80px;
     }
+    
     
 
